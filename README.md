@@ -21,7 +21,4 @@ A modern, responsive personal portfolio website built using **HTML** and **Tailw
 - Tailwind CSS  
 
 ---
-
-## 📂 Project Structure
-
-ersonal learning project, but suggestions and improvements are welcome!
+You Can See The Live Project-  stately-pasca-7e91b4.netlify.app
