@@ -2,6 +2,8 @@
 
 A modern, responsive personal portfolio website built using **HTML** and **Tailwind CSS**, featuring a sleek dark UI and clean design inspired by modern web layouts.
 
+🔗 Live Demo
+Check it here: stately-pasca-7e91b4.netlify.app
 ---
 
 ## 🚀 Features
@@ -20,5 +22,3 @@ A modern, responsive personal portfolio website built using **HTML** and **Tailw
 - HTML5  
 - Tailwind CSS  
 
----
-You Can See The Live Project-  stately-pasca-7e91b4.netlify.app
